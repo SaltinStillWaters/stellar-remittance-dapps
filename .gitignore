@@ -1,0 +1,15 @@
+# Rust / Cargo
+/target
+**/target
+Cargo.lock
+
+# Soroban / Stellar
+*.wasm
+test_snapshots/
+.stellar/
+
+# Editors / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
